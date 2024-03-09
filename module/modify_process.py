@@ -3,14 +3,7 @@ type_1_data = """
 title: {title}
 allDay: true
 type: recurring
-daysOfWeek:
-  - S
-  - F
-  - R
-  - W
-  - T
-  - M
-  - U
+daysOfWeek: [S, F, R, W, T, M, U]
 startRecur: {startdate}
 endRecur: {enddate}
 ---
