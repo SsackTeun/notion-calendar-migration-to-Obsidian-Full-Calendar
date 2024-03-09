@@ -8,7 +8,7 @@ from module import parse_properties as properties # 이름 | 날짜 | 태그 파
 from module import modify_process as mod # 캘린더 파일을 파싱데이터에서 구분하여, 값처리
 
 # calendar.md 에서 이름/날짜 파싱
-calendar_file_path = "calendar.md"  # 여기에 실제 경로를 입력해주세요.
+calendar_file_path = "calendar.md"
 
 # 작업 디렉토리
 input_file_path = "workspace/input"
