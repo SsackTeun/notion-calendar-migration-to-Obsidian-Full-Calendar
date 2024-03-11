@@ -1,3 +1,9 @@
+### 주의 : 다운로드 받은 후 .py 가 있는 폴더에서 workspace/input , workspace/output, source 폴더 생성 필요함
+git clone https://github.com/SsackTeun/notion-calendar-migration-to-Obsidian-Full-Calendar.git
+mkdir workspace/input
+mkdir workspace/workspace
+mkdir source
+
 ## 1. notion 에서 내보내기
 ### 1. notion 에서 캘린더파일을 제일 상위위치로 옮김
 ### 2. 우측 상단에 ... 에서 내보내기
