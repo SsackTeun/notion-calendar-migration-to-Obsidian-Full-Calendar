@@ -4,6 +4,12 @@ mkdir workspace/input
 mkdir workspace/workspace
 mkdir source
 
+### 실행 방법
+파이썬 설치 후
+python3 or python
+
+실행 방법 예시 : python 1_extract md file & move to workspace.py 
+
 ## 1. notion 에서 내보내기
 ### 1. notion 에서 캘린더파일을 제일 상위위치로 옮김
 ### 2. 우측 상단에 ... 에서 내보내기
@@ -49,6 +55,11 @@ mkdir source
 1. 휴가_2024-02-26_to_2024-03-02.md (기간인 경우)
 2. 휴가_2024-02-27 (하루인 경우)
 
+### 5_(option) output data move to copy.py :
+- output 폴더에 내용을 다른 폴더에 복사하는 기능
+
+### 6_(option) clean directory.py :
+- workspace/input , workspace/output, source/ 폴더 비우기
 
 
 
